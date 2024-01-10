@@ -1,5 +1,6 @@
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm?"))
+#here we use >= sign bcz value can be equal and should be greater than and other signs <,>,<=,==,!= not equal to.
 if height >= 120:
     print("You can ride the rollercoaster!")
 else:
