@@ -5,3 +5,9 @@ if height >= 120:
     print("You can ride the rollercoaster!")
 else:
     print("no, you cannot ride the rollercoaster!")
+
+number = int(input("which number do you want to check?"))
+if number % 2 == 0: # here % sign means dividing by 2
+    print("this is a even number.")
+else:
+    print("this is a odd number.")
