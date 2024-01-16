@@ -1,0 +1,8 @@
+states_of_america = ["hawai", "california", "iowa", "angela", "penslvaniya", "delaware".]
+print(states_of_america[2})
+
+states_of_america = ["penslvaniya", "delaware", "angela", "hawai", "iowa","california", "alaska", "arizona"]
+states_of_america[1]="penslvaniya"
+states_of_america.append("arizona")
+print(states_of_america)
+
