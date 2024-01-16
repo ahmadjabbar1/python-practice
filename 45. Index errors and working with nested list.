@@ -1,0 +1,4 @@
+
+Friuts=["apple", "strawberry", "banana","water melon"]
+vegetable=["tamato","patato","spinach","kale"]
+dirty_dozens=[Friuts, vegetable]
